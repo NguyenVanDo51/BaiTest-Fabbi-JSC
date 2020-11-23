@@ -5,20 +5,20 @@ $arr = [11, 2, 8, 10, 5, 99, 1, 8, 9];
 $arr = array_chunk($arr, 3);
 $output = [];
 $index = 0;
-foreach($arr as $items) {
+foreach ($arr as $items) {
     $output[$index] = $items[0];
-    $index ++;
+    $index++;
 }
-foreach($arr as $items) {
+foreach ($arr as $items) {
     $output[$index] = $items[1];
-    $index ++;
+    $index++;
 }
-foreach($arr as $items) {
+foreach ($arr as $items) {
     $output[$index] = $items[2];
-    $index ++;
+    $index++;
 }
 
-foreach($output as $item) {
+foreach ($output as $item) {
     echo $item . ' ';
 }
 

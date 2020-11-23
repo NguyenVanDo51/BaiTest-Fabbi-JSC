@@ -7,11 +7,11 @@ $minSize = 0;
 
 $elements = $arr[0];
 
-for($i = 0; $i <  count($arr); $i ++) {
-    for($j = $i + 1; $j < count($arr) ; $j ++) {
+for ($i = 0; $i < count($arr); $i++) {
+    for ($j = $i + 1; $j < count($arr); $j++) {
         if ($arr[$i] > $arr[$j]) {
             $temp = $arr[$i] - $arr[$j];
-        }else {
+        } else {
             $temp = $arr[$j] - $arr[$i];
         }
 

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b8bd99bb-fda1-498b-9eaf-3f5a0b4318dd" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/Test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bai1.php" beforeDir="false" afterPath="$PROJECT_DIR$/Bai1.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bai2.php" beforeDir="false" afterPath="$PROJECT_DIR$/Bai2.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bai3.php" beforeDir="false" afterPath="$PROJECT_DIR$/Bai3.php" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1jPBXIJjfeqQ7LU0RLLeSqH7oOT" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/www/blackguy" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b8bd99bb-fda1-498b-9eaf-3f5a0b4318dd" name="Default Changelist" comment="" />
+      <created>1603695884502</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603695884502</updated>
+      <workItem from="1603695885531" duration="2498000" />
+      <workItem from="1603699082144" duration="328000" />
+      <workItem from="1603801315547" duration="231000" />
+      <workItem from="1603807134040" duration="6224000" />
+      <workItem from="1603855923316" duration="3569000" />
+      <workItem from="1603863649880" duration="1663000" />
+      <workItem from="1603878043399" duration="2791000" />
+      <workItem from="1603895861126" duration="2083000" />
+      <workItem from="1603940519786" duration="144000" />
+      <workItem from="1603976994503" duration="9515000" />
+      <workItem from="1604021810756" duration="9374000" />
+      <workItem from="1604372108554" duration="12000" />
+      <workItem from="1604374678442" duration="4000" />
+      <workItem from="1604474097275" duration="32000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="611" y="221" width="424" height="491" key="FileChooserDialogImpl" timestamp="1604474126818">
+      <screen x="56" y="27" width="1544" height="873" />
+    </state>
+    <state x="611" y="221" width="424" height="491" key="FileChooserDialogImpl/56.27.1544.873@56.27.1544.873" timestamp="1604474126818" />
+    <state x="438" y="77" width="770" height="780" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1603698381058">
+      <screen x="56" y="27" width="1544" height="873" />
+    </state>
+    <state x="438" y="77" width="770" height="780" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/56.27.1544.873@56.27.1544.873" timestamp="1603698381058" />
+    <state x="660" y="236" width="325" height="462" key="refactoring.ChangeSignatureDialog" timestamp="1603812096190">
+      <screen x="56" y="27" width="1544" height="873" />
+    </state>
+    <state x="660" y="236" width="325" height="462" key="refactoring.ChangeSignatureDialog/56.27.1544.873@56.27.1544.873" timestamp="1603812096190" />
+    <state x="491" y="214" width="672" height="678" key="search.everywhere.popup" timestamp="1603979141963">
+      <screen x="56" y="27" width="1544" height="873" />
+    </state>
+    <state x="491" y="214" width="672" height="678" key="search.everywhere.popup/56.27.1544.873@56.27.1544.873" timestamp="1603979141963" />
+  </component>
+</project>

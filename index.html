@@ -1,0 +1,47 @@
+
+<!DOCTYPE HTML>
+<html>
+
+<head>
+    <title>
+        JavaScript
+        | Check if a string is html or not.
+    </title>
+</head>
+
+<body style="text-align:center;"
+      id="body">
+<h1 style="color:green;"
+    id="h1">
+    GeeksForGeeks
+</h1>
+<p id="GFG_UP"
+   style="font-size: 15px;
+              font-weight: bold;">
+</p>
+<button onclick="GFG_Fun()">
+    click here
+</button>
+<p id="GFG_DOWN"
+   style="color:green;
+              font-size: 20px;
+              font-weight: bold;">
+</p>
+<script>
+    var up = document.getElementById('GFG_UP');
+    var str1 = '<div>GeeksForGeeks</div>';
+    var str = '<ddsasssasiv>Hello, it\'s <strong>me</strong> you\'re <i>looking</i> for <span class="blink">;)</span>!</ddsasssasiv>';
+
+    up.innerHTML = "Click on the button to check "+
+        "for the valid HTML.<br> String - " + str1;
+
+    var down = document.getElementById('GFG_DOWN');
+
+    function GFG_Fun() {
+        down.innerHTML =
+            /<(?=.*? .*?\/ ?>|br|hr|input|!--|wbr)[a-z]+.*?>|<([a-z]+).*?<\/\1>/i.test(str);
+    }
+</script>
+</body>
+
+</html>
